@@ -1,6 +1,9 @@
 {
         "name":"Sergei",
-        "age":32,
-        "city":"Saint-Petersburg"
+        "second_name":"Biziuk",
+        "age":23,
+        "pets":0,
+        "city":"Saint-Petersburg",
+        "salary":50000
 
 }
