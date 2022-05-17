@@ -1,1 +1,56 @@
+"location": {
+  "ancestorOrigins": {},
+  "href": "http://localhost:4000/",
+  "origin": "http://localhost:4000",
+  "protocol": "http:",
+  "host": "localhost:4000",
+  "hostname": "localhost",
+  "port": "4000",
+  "pathname": "/",
+  "search": "",
+  "hash": ""
+}
 
+"form": {
+  "title": "Wellcome is spelled incorrectly",
+  "description": "You should change it to 'Welcome'"
+}
+
+"notes": [{
+  "id":"7ebcf985-f7dc-4b78-9e17-b346dd910a0a",
+  "pinHead":{"x":100,"y":100},
+  "selected":true,
+  "text":"Here is a note",
+  "size":{"width":64,"height":32}
+}]
+
+
+"buffer": [
+  {
+    "when": "2020-10-24T14:28:06.855Z",
+    "level": "log",
+    "data": [
+      "%cUser Bug Report:BugButton %cattaching modal holder%c +0ms",
+      "color: #3399FF",
+      "color: inherit",
+      "color: #3399FF"
+    ]
+  }
+]
+
+"networkRequests": [
+  {
+    "name": "http://localhost:4000/styles.css",
+    "initiatorType": "link",
+    "redirectTime": 0,
+    "dnsTime": 0,
+    "tcpHandshakeTime": 0,
+    "secureConnectionTime": 0,
+    "responseTime": 0.4600000102072954,
+    "fetchUntilResponseEndTime": 22.409999975934625,
+    "requestStartUntilResponseEnd": 0.6849999772384763,
+    "startUntilResponseEnd": 22.409999975934625
+  }
+]
+
+ "localTime": "Tue May 17 2022 01:17:00 GMT+0300 (Moscow Standard Time)"
